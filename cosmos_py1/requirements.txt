@@ -1,0 +1,9 @@
+pathlib
+bech32
+certifi
+chardet
+ecdsa
+idna
+requests
+six
+urllib3
